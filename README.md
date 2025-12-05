@@ -1,4 +1,4 @@
-# 🛒 Aahaas Ecommerce Project (Full Stack)
+# 🛒  Ecommerce Project (Full Stack)
 
 A full-stack ecommerce product listing application built with:
 
