@@ -1,4 +1,4 @@
-# Aahaas Frontend (React + Vite + Tailwind)
+# Frontend (React + Vite + Tailwind)
 
 Responsive product listing that consumes the Aahaas Laravel API.
 
